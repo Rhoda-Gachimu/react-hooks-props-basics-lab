@@ -20,7 +20,7 @@ function App() {
       <NavBar />
       <Home name="Liza" city="New York" color="firebrick"/>
       <About bio="I made this" />
-      <App/>
+  
       
 
     </div>
